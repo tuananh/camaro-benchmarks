@@ -1,0 +1,22 @@
+{
+  "name": "camaro-benchmarks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tuan Anh Tran",
+  "license": "MIT",
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "camaro": "^4.0.7",
+    "camaro3": "https://github.com/tuananh/camaro.git#v3",
+    "fast-xml-parser": "^3.12.20",
+    "libxmljs": "^0.19.5",
+    "rapidx2j": "^0.5.1",
+    "xml-js": "^1.6.11",
+    "xml2js": "^0.4.22",
+    "xml2json": "^0.11.2"
+  }
+}
